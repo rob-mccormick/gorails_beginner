@@ -1,24 +1,12 @@
-# README
+# Buffer Clone
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+I built this project as part of the Go Rails [Ruby on Rails for Beginners course](https://gorails.com/start).
 
-Things you may want to cover:
+Over 41 tutorials, I learnt Ruby on Rails by building a Buffer clone (to schedule Tweets) with authentication, OAuth, Twitter’s API, and background workers.
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+It uses:
+- Ruby 3.0
+- Rails 6.1
+- Bootstrap
+- Postgres
+- Sidekiq
